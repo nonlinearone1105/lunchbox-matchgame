@@ -53,12 +53,11 @@ h3 {
 .card p {
   font-size: 0.75rem;
   color: black;
-  font-weight: normal;
   margin-top: 1rem;
 }
 
 .credit {
-  margin: 0;
+  margin: 0!important;
 }
 
 .card {
