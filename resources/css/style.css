@@ -39,13 +39,14 @@ h2 {
 
 h3 {
   color: black;
-  font-size: 2rem;
+  font-size: 1.5rem;
+  margin-top: 2rem;
 }
 
 #instructions p {
-  font-size: 1rem;
+  font-size: 1.25rem;
   color: black;
-  padding: 1rem 0 2rem 0;
+  padding: 1rem 0 0 0;
 }
 
 .card p {
