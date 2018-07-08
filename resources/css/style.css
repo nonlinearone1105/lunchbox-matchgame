@@ -50,9 +50,10 @@ h3 {
 }
 
 .card p {
-  font-size: 1rem;
+  font-size: 0.75rem;
   color: black;
   font-weight: normal;
+  margin-top: 1rem;
 }
 
 .card {
