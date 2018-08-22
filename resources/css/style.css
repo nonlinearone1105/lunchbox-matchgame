@@ -40,19 +40,19 @@ h2 {
 
 h3 {
   color: black;
-  font-size: 1rem;
+  font-size: 0.75rem;
   margin: 0.5rem 0;
 }
 
 #instructions p {
-  font-size: 1rem;
+  font-size: 0.5rem;
   color: black;
   padding: 0.5rem 0 0 0;
-  line-height: 1.75rem;
+  line-hei1ght: 1.75rem;
 }
 
 .card p {
-  font-size: 0.75rem;
+  font-size: 0.5rem;
   color: black;
   margin-top: 1rem;
 }
@@ -85,8 +85,8 @@ h3 {
 }
 
 .card img {
-  max-height: 15rem;
-  max-width: 15rem;
+  max-height: 10rem;
+  max-width: 10rem;
   padding-bottom: 0.5rem;
 }
 
