@@ -35,7 +35,7 @@ h2 {
   font-size: 1rem;
   color: black;
   font-weight: bold;
-  margin-top: 1rem;
+  margin-top: 0.75rem;
 }
 
 h3 {
@@ -54,7 +54,7 @@ h3 {
 .card p {
   font-size: 0.6rem;
   color: black;
-  margin-top: 0.75rem;
+  margin-top: 0.5rem;
 }
 
 .credit {
