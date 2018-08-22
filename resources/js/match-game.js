@@ -83,7 +83,7 @@ MatchGame.shuffleCards = function(cardDeck) {
 */
 
 MatchGame.renderCards = function(cardDeck, $game) {
-  var colors = ["hsl(0, 100%, 50%)", "hsl(25, 100%, 50%)", "hsl(50, 100%, 50%)", "hsl(90, 100%, 50%)", "hsl(175, 100%, 50%)", "hsl(260, 100%, 80%)", "hsl(160, 100%, 50%)", "hsl(45, 100%, 40%)", "hsl(115, 100%, 20%)", "hsl(300, 100%, 50%)", "hsl(220, 100%, 50%)", "hsl(270, 100%, 50%)"];
+  var colors = ["#7fd589", "#0076a3", "#7d4900", "#007236", "#003471", "#005952", "#598527", "#fdc689", "#662d91", "hsl(300, 100%, 50%)", "hsl(220, 100%, 50%)", "hsl(270, 100%, 50%)"];
   $($game).empty();
   $($game).data("flippedCards", []);
   for(var j = 0; j < cardDeck.length; j++) {
