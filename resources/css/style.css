@@ -55,8 +55,7 @@ h3 {
 #instructions p {
   font-size: 0.6rem;
   color: black;
-  padding: 0.5rem 0 0 0;
-  line-hei1ght: 1.75rem;
+  line-height: 1.75rem;
 }
 
 .card p {
