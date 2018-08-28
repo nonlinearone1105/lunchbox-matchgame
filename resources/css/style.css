@@ -4,12 +4,16 @@ body {
   background-color: hsl(360, 100%, 100%);
 }
 
+.container {
+  padding: 0;
+}
+
 .padding-top {
-  padding-top: 2rem;
+  padding-top: 1rem;
 }
 
 .padding-bottom {
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 .bold {
@@ -27,7 +31,7 @@ body {
 #header {
   display: flex;
   align-items: center;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 h1 {
@@ -88,8 +92,8 @@ h3 {
 }
 
 .card img {
-  max-height: 10rem;
-  max-width: 10rem;
+  max-height: 8rem;
+  max-width: 8rem;
   padding-bottom: 0.5rem;
 }
 
