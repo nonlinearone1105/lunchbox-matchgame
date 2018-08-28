@@ -5,11 +5,11 @@ body {
 }
 
 .padding-top {
-  padding-top: 5.25rem;
+  padding-top: 2rem;
 }
 
 .padding-bottom {
-  padding-bottom: 5.25rem;
+  padding-bottom: 2rem;
 }
 
 .bold {
@@ -66,8 +66,8 @@ h3 {
 }
 
 .card {
-  height: 14rem;
-  width: 16rem;
+  height: 12rem;
+  width: 14rem;
   background-color: rgb(111, 166, 56);
   border: 4px solid #000000;
   border-radius: 8px;

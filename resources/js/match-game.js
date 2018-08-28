@@ -48,7 +48,7 @@ var cardDeck = [
 
   "<div class='12'><img src='./resources/images/12.jpg'> <p class='credit'>Emin, Tracey. <em  class='italic'>My Bed.</em> 1998.</p></div>",
 
-  "<div class='12'><h2>1980s: YBA Young British Artists</h2> <p>The YBAs are notorious for their willingness to shock audiences with gratuitously violent imagery, brazen use of pornography, and their desire to push beyond what many consider the limits of decency. Derogatory UK tabloid press coverage was an important component of their success, as it was all most people knew of the group.</p> <p>The works of the various YBA artists are characterized by their open approach to process and materials, something that can be attributed to the structure of the B.A. Fine Art program at Goldsmiths College where many of them studied. Their courses abandoned the traditional segregation of artistic training into painting, drawing, photography, and sculpture classes in favor of mixed studios.</p></div>"];
+  "<div class='12'><h2>1980s: YBA Young British Artists</h2> <p>The YBAs are notorious for their willingness to shock audiences with violent imagery, unashamed use of pornography, and their desire to push beyond what many consider the limits of decency and personal matters. Most of their publicity was gained thru unfavorable British press coverage.</p></div>"];
 
 /*
   Sets up a new game after HTML document has loaded.
