@@ -17,9 +17,8 @@ body {
   padding-right: 0;
 }
 
-.small-side-margin {
-  margin-left: 3rem;
-  margin-right: 3rem;
+.no-margin {
+  margin: 0;
 }
 
 .bold {
